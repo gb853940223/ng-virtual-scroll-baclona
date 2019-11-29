@@ -1,1 +1,2 @@
-# ng-virtual-scroll-baclona
+# 自己用angular，实现了一个虚似滚动的组件
+#
